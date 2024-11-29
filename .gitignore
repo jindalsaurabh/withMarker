@@ -37,3 +37,7 @@ yarn-error.log*
 next-env.d.ts
 
 docker-data
+
+# folders
+/Input
+/Output
